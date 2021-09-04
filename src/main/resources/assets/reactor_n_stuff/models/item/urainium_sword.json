@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "reactor_n_stuff:items/urainium_sword_texture"
+  }
+}

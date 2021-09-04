@@ -1,0 +1,37 @@
+{
+  "group": "reactor_n_stuff",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reactor_n_stuff:urainium"
+    },
+    {
+      "item": "reactor_n_stuff:urainium"
+    },
+    {
+      "item": "reactor_n_stuff:urainium"
+    },
+    {
+      "item": "reactor_n_stuff:urainium"
+    },
+    {
+      "item": "reactor_n_stuff:urainium"
+    },
+    {
+      "item": "reactor_n_stuff:urainium"
+    },
+    {
+      "item": "reactor_n_stuff:urainium"
+    },
+    {
+      "item": "reactor_n_stuff:urainium"
+    },
+    {
+      "item": "reactor_n_stuff:urainium"
+    }
+  ],
+  "result": {
+    "item": "reactor_n_stuff:urainium_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "reactor_n_stuff:items/uranium_texture"
+  }
+}

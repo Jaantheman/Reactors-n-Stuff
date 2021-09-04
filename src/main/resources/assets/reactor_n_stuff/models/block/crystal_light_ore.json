@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "reactor_n_stuff:blocks/crystal_ore_texture",
+    "up": "reactor_n_stuff:blocks/crystal_ore_texture",
+    "north": "reactor_n_stuff:blocks/crystal_ore_texture",
+    "east": "reactor_n_stuff:blocks/crystal_ore_texture",
+    "south": "reactor_n_stuff:blocks/crystal_ore_texture",
+    "west": "reactor_n_stuff:blocks/crystal_ore_texture",
+    "particle": "reactor_n_stuff:blocks/crystal_ore_texture"
+  }
+}

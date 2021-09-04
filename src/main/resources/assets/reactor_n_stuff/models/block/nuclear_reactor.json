@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "reactor_n_stuff:blocks/base",
+    "up": "reactor_n_stuff:blocks/base",
+    "north": "reactor_n_stuff:blocks/nuclear_reactor",
+    "east": "reactor_n_stuff:blocks/nuclear_reactor",
+    "south": "reactor_n_stuff:blocks/nuclear_reactor",
+    "west": "reactor_n_stuff:blocks/nuclear_reactor",
+    "particle": "reactor_n_stuff:blocks/base"
+  }
+}

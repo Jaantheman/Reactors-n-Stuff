@@ -1,0 +1,30 @@
+{
+  "group": "reactor_n_stuff",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "reactor_n_stuff:urainium"
+    },
+    "3": {
+      "item": "reactor_n_stuff:urainium"
+    },
+    "4": {
+      "item": "reactor_n_stuff:crystal_light_item"
+    },
+    "5": {
+      "item": "reactor_n_stuff:urainium"
+    },
+    "7": {
+      "item": "reactor_n_stuff:urainium"
+    }
+  },
+  "result": {
+    "item": "reactor_n_stuff:reactor_core",
+    "count": 1
+  }
+}

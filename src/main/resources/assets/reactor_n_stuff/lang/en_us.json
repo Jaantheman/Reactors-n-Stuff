@@ -1,0 +1,18 @@
+{
+  "block.reactor_n_stuff.crystal_light_ore": "Crystal Light Ore",
+  "block.reactor_n_stuff.urainiumore": "Urainiumore",
+  "item.reactor_n_stuff.urainiumarmor_chestplate": "Urainium Body",
+  "item.reactor_n_stuff.urainium_pickaxe": "Urainium Pickaxe",
+  "itemGroup.tabreactorsnstufftab": "Reactorsnstufftab",
+  "item.reactor_n_stuff.urainium_sword": "Urainium Sword",
+  "item.reactor_n_stuff.urainiumarmor_leggings": "Urainium Leggings",
+  "item.reactor_n_stuff.urainiumarmor_helmet": "Urainium Helmet",
+  "block.reactor_n_stuff.nuclear_reactor": "Nuclear Reactor",
+  "item.reactor_n_stuff.crystal_light_item": "Crystal Light Item",
+  "advancements.reactor.title": "Have a \"Fission\" Time",
+  "item.reactor_n_stuff.urainium": "Urainium",
+  "advancements.reactor.descr": "Obtain A Nuclear Reactor",
+  "item.reactor_n_stuff.reactor_core": "Reactor Core",
+  "block.reactor_n_stuff.urainium_block": "Urainium Block",
+  "item.reactor_n_stuff.urainiumarmor_boots": "Urainium Boots"
+}

@@ -1,0 +1,31 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "reactor_n_stuff:nuclear_reactor"
+    },
+    "title": {
+      "translate": "advancements.reactor.title"
+    },
+    "description": {
+      "translate": "advancements.reactor.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "reactor": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "item": "reactor_n_stuff:nuclear_reactor"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}

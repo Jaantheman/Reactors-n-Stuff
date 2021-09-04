@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "reactor_n_stuff:block/nuclear_reactor"
+    }
+  }
+}
